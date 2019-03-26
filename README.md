@@ -1,6 +1,6 @@
 #Información
-*Consumir API como:* `https://rubenmaier.github.io/api-simplificada-trailers-marvel/api.json`
-Esta API contiene el siguiente formato:
+*Copie el json a su proyecto local desde:* `https://rubenmaier.github.io/api-simplificada-trailers-marvel/api.json`
+El objeto contiene el siguiente formato:
 ```
     - id
     - categoria
